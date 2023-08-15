@@ -4,7 +4,7 @@ Enter password: ________________
 
 
 
-
+|_| I agree to receive emails
 |_| I agree to Terms and Conditions
 
 | Register |
